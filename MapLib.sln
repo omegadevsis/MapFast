@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapLib", "MapLib\MapLib.csproj", "{094105B3-A3DD-44D2-A12A-A7DD7C5FC778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{094105B3-A3DD-44D2-A12A-A7DD7C5FC778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094105B3-A3DD-44D2-A12A-A7DD7C5FC778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094105B3-A3DD-44D2-A12A-A7DD7C5FC778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094105B3-A3DD-44D2-A12A-A7DD7C5FC778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
