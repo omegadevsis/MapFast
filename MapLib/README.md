@@ -1,9 +1,10 @@
-# MapLib - Biblioteca de Mapeamento de DTOs para C#
+# MapFast - Biblioteca de Mapeamento de DTOs para C#
 
 [![.NET Standard 2.1](https://img.shields.io/badge/.NET%20Standard-2.1-blue)](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+[![NuGet](https://img.shields.io/nuget/v/MapFast.svg)](https://www.nuget.org/packages/MapFast/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-**MapLib** é uma biblioteca leve e eficiente para mapeamento automático entre classes e DTOs (Data Transfer Objects) em C#. Inspirada nas melhores práticas de bibliotecas como AutoMapper, a MapLib oferece uma solução simples e poderosa para transferência de dados entre camadas da sua aplicação.
+**MapFast** é uma biblioteca leve e eficiente para mapeamento automático entre classes e DTOs (Data Transfer Objects) em C#. Inspirada nas melhores práticas de bibliotecas como AutoMapper, a MapFast oferece uma solução simples e poderosa para transferência de dados entre camadas da sua aplicação.
 
 ## 📋 Índice
 
@@ -35,9 +36,14 @@
 
 ## 📦 Instalação
 
-### Via NuGet (quando publicado)
+### Via NuGet
 ```bash
-dotnet add package MapLib
+dotnet add package MapFast
+```
+
+### Via Package Manager Console
+```powershell
+Install-Package MapFast
 ```
 
 ### Build Manual
@@ -532,4 +538,7 @@ Para questões e suporte, abra uma issue no [GitHub](https://github.com/seu-usua
 
 ---
 
-**MapLib** - Mapeamento de DTOs simples e eficiente para C# 🚀
+**MapFast** - Mapeamento de DTOs simples, rápido e eficiente para C# 🚀
+
+[![NuGet](https://img.shields.io/nuget/v/MapFast.svg)](https://www.nuget.org/packages/MapFast/)
+[![NuGet Downloads](https://img.shields.io/nuget/dt/MapFast.svg)](https://www.nuget.org/packages/MapFast/)
