@@ -35,7 +35,7 @@
 
 ## 📦 Instalação
 
-### Via NuGet (quando publicado)
+### Via NuGet
 ```bash
 dotnet add package MapLib
 ```
